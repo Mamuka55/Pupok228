@@ -1,0 +1,6 @@
+result = [3,10,20,30,100]
+i = input ("Введите команду""\n")
+if (i  == 'LOX'):
+    for i in result:
+           print (i)
+
